@@ -1,1 +1,7 @@
 /target
+
+# Ignore data-to-serialize-directory
+data-to-serialize/*
+
+# Ignore output SQLite file
+serialized.db
